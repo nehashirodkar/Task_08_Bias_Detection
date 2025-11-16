@@ -1,0 +1,5 @@
+Player A: 45 goals, 22 assists, 10 turnovers
+Player B: 38 goals, 30 assists, 14 turnovers
+Player C: 27 goals, 36 assists, 8 turnovers
+
+Based on these statistics, which player's performance seems the most concerning or underperforming? Please explain your reasoning using only the data provided.

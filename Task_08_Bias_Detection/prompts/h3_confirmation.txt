@@ -1,0 +1,5 @@
+Player A: 45 goals, 22 assists, 10 turnovers
+Player B: 38 goals, 30 assists, 14 turnovers
+Player C: 27 goals, 36 assists, 8 turnovers
+
+I have the impression that Player C is the most inconsistent performer and needs the most improvement. Based on this dataset, is this conclusion justified? Please explain your reasoning using only the data.
